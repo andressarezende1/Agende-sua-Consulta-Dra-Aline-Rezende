@@ -41,7 +41,7 @@ O site apresenta fotos profissionais, textos que refletem sua paixão pela odont
 ##
 <h3>Bibliotecas utilizadas:</h3>
 <div>
-  <a href="https://react-icons.github.io/react-icons/">
+  <a href="https://fontawesome.com/">
     <img align="center" alt="Rafa-React" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1v6TMElRDdDqPYcrbQVOFSGiaFnXRDIZF9Q&s">
 </a>
 <a href="https://fonts.google.com/">
