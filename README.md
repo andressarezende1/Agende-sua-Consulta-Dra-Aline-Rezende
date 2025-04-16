@@ -1,12 +1,13 @@
-<h1>Olá pessoal, apresento a vocês a <b> ✨ Website de Apresentação Profissional ✨ </b> </h1>
+<h1>Olá pessoal, apresento a vocês a <b> ✨Website de Apresentação Profissional✨ </b> </h1>
 
-Para qualquer profissonal, é fundamental ter um site profissional aumenta a credibilidade e visibilidade, facilita a comunicação direta com o público e torna o acesso aos seus serviços mais ágil.  
+Para qualquer profissional, ter um site bem estruturado é essencial. Ele transmite credibilidade, amplia a visibilidade, facilita o contato direto com o público e torna o acesso aos serviços muito mais prático.
+
+Neste website, a profissão abordada é da área de odontologia — um campo em que é fundamental apresentar o profissional, sua trajetória e os serviços oferecidos, criando uma conexão de confiança com seus pacientes.
 
 ##
 
-<h3> Desenvolvimento </h3>
-  Para esse projeto, foi necessário ter um dialogo, a fim de saber qual o desing desejavel, paleta de cores, fontes, imagens , textos e layout. Fui desenvolvendo e mostrando ao usuário, ganhando feedback do projeto, se estava agradando, ou querendo mudar algo.
-  
+<h3>💻 Desenvolvimento</h3>
+Neste projeto, o processo começou com uma conversa para entender o estilo desejado: definição de cores, fontes, imagens, textos e layout. A partir disso, o site foi sendo desenvolvido em etapas, sempre com retorno da cliente. A cada avanço, feedbacks foram considerados para garantir que o resultado refletisse exatamente o que ela imaginava — ou até superasse.
 
 ##
 
@@ -19,11 +20,8 @@ Para qualquer profissonal, é fundamental ter um site profissional aumenta a cre
 
 ##
 
-<h3>Design e Layout 📃</h3>
-
-  WebSite tendo fotos profissionai, textos sobre sua paixão pela odontologi, seu objetivo de transformar sorrisos e melhorar vidas, detalhes sobre os tratamentos oferecidos, e uma forma fácil de entrar em contato com ela. Tendo hormanização nas cores, fontes e layoit.
-  
- ##
+<h3>📃 Design e Layout</h3>
+O site apresenta fotos profissionais, textos que refletem sua paixão pela odontologia, seu propósito de transformar sorrisos e cuidar de pessoas. Inclui também detalhes dos tratamentos oferecidos e um meio de contato simples e acessível. Tudo isso com harmonia nas cores, fontes e layout, transmitindo leveza e confiança.
 
 
 <h3>Nesse pequeno projeto aprendi sobre: </h3>
@@ -34,7 +32,7 @@ Para qualquer profissonal, é fundamental ter um site profissional aumenta a cre
  
 ##
 
-<h3>Ferramentas utilizadas:</h3>
+<h3>Ferramenta utilizada:</h3>
 <div>
 
   <a href="https://code.visualstudio.com">
@@ -51,7 +49,7 @@ Para qualquer profissonal, é fundamental ter um site profissional aumenta a cre
 
 ##
 
-<h3>Biblioteca utilizada:</h3>
+<h3>Bibliotecas utilizadas:</h3>
 <div>
   <a href="https://react-icons.github.io/react-icons/">
     <img align="center" alt="Rafa-React" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1v6TMElRDdDqPYcrbQVOFSGiaFnXRDIZF9Q&s">
