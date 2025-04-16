@@ -9,7 +9,6 @@ Neste projeto, o processo começou com uma conversa para entender o estilo desej
 
 ##
 <h3>📂 Estrutura do projeto  </h3>
-
 <br>1️⃣ Página inicial: Informando nome, redes sociais e navegação, e na versão Mobile, uma foto, ocultando a navegação.
 <br>2️⃣ Página de Apresentação: Uma pequena apresentação do profissonal aos seu público.
 <br>3️⃣ Tratamentos oferecidos: Exibindo os serviços ondotologicos pelo profissonal realiza.
@@ -21,7 +20,6 @@ O site apresenta fotos profissionais, textos que refletem sua paixão pela odont
 
 ##
 <h3>Nesse pequeno projeto aprendi sobre: </h3>
-
  <br>📌 Dialógo constante com o cliente
  <br>📌 Estruturação do HTML e aprimoramento em propriedade do CSS
  <br>📌 Noções de layout de aplicações Web e Mobile
@@ -46,9 +44,7 @@ O site apresenta fotos profissionais, textos que refletem sua paixão pela odont
   <a href="https://react-icons.github.io/react-icons/">
     <img align="center" alt="Rafa-React" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1v6TMElRDdDqPYcrbQVOFSGiaFnXRDIZF9Q&s">
 </a>
-
 <a href="https://fonts.google.com/">
     <img align="center" alt="Rafa-React" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUP5DizHClmiEANb7443enra5h_mzpCzC_tQ&s">
 </a>
-
 </div>
